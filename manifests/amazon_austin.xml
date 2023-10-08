@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="cm14-mt8127" fetch="https://github.com/cm14-mt8127" revision="refs/heads/cm-14.1" />
-    <project path="device/amazon/austin" name="android_device_amazon_austin" remote="cm14-mt8127" revision="cm-12.1" />
+    <project path="device/amazon/austin" name="android_device_amazon_austin" remote="cm14-mt8127" revision="cm-14.1" />
     <project path="device/amazon/mt8127-common" name="android_device_amazon_mt8127-common" remote="cm14-mt8127" />
-    <project path="kernel/amazon/mt8127-common" name="android_kernel_amazon_mt8127-common" remote="cm14-mt8127" revision="cm-12.1" />
+    <project path="kernel/amazon/mt8127-common" name="android_kernel_amazon_mt8127-common" remote="cm14-mt8127" revision="cm-14.1" />
 
 </manifest>
 
